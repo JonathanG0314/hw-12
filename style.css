@@ -38,12 +38,12 @@ body{
   display: inline-flex;
 }
 
-.start {
-
+.start {  
+  justify-content: flex-start;
 }
 
 .end {
-
+  justify-content: flex-end;
 }
 
 .center {
